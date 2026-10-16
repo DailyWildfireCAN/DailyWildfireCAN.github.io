@@ -18,7 +18,7 @@ CanadaWildfireDaily is a large-scale dataset and benchmark for daily wildfire sp
 
 ## Dataset and code
 
-The dataset is available for [download](https://huggingface.co/datasets/CanadaWildFireDaily/CanadaWildFireDaily-v1), and we release the [code](https://github.com/hagerradi/CanadaWildFireDaily) for building the dataset in other regions of the world and for the benchmark.
+The dataset is available for [download](https://huggingface.co/datasets/CanadaWildFireDaily/CanadaWildFireDaily), and we release the [code](https://github.com/hagerradi/CanadaWildFireDaily) for building the dataset in other regions of the world and for the benchmark.
 
 ## Authors
 
