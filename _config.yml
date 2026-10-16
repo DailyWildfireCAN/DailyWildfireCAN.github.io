@@ -5,6 +5,7 @@ description:
 buttons:
   Paper: "#placeholder"
   Dataset: https://huggingface.co/datasets/CanadaWildFireDaily/CanadaWildFireDaily
+  Benchmark: https://huggingface.co/CanadaWildFireDaily/CanadaWildFireDailyBenchmark
   Datasheet: ""
   Code: "https://github.com/hagerradi/CanadaWildFireDaily"
   Talk: ""
