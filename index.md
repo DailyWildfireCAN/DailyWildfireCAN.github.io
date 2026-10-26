@@ -1,5 +1,5 @@
 ---
-title: 'CanadaWildfireDaily: A Dataset and Benchmark for Daily Wildfire Spread in Canada'
+title: 'DailyWildfireCAN: A Dataset and Benchmark for Next-Day Wildfire Spread Prediction in Canada'
 layout: default
 ---
 
