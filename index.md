@@ -6,7 +6,7 @@ layout: default
 <p class="teaser"> <img src="assets/CanadawildfireDaily_problem.png" width="85%" alt="The wildfire spread prediction problem addressed by CanadaWildFireDaily"/>
 </p>
 
-<p class="teaser"> <img src="assets/CanadaWildFireDaily_overview.png" width="85%" alt="Overview of the CanadaWildFireDaily dataset"/>
+<p class="teaser"> <img src="assets/DailyWildfireCAN_overview.png" width="85%" alt="Overview of the CanadaWildFireDaily dataset"/>
 </p>
 
 ## Abstract
@@ -18,7 +18,7 @@ DailyWildfireCAN is a large-scale dataset and benchmark for daily wildfire sprea
 
 ## Dataset and code
 
-The dataset is available for [download](https://huggingface.co/datasets/CanadaWildFireDaily/DailyWildfireCAN), and we release the [code](https://github.com/hagerradi/CanadaWildFireDaily) for building the dataset in other regions of the world and for the benchmark.
+The dataset is available for [download](https://huggingface.co/datasets/DailyWildfireCAN/DailyWildfireCAN), and we release the [code](https://github.com/hagerradi/DailyWildFireCAN) for building the dataset in other regions of the world and for the benchmark.
 
 ## Authors
 
