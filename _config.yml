@@ -3,7 +3,7 @@ title: "DailyWildfireCAN: A Dataset and Benchmark for Next-Day Wildfire Spread P
 description:
   - Currently Under Review
 buttons:
-  Paper: "#placeholder"
+  Paper: "https://arxiv.org/abs/2611.14207"
   Dataset: https://huggingface.co/datasets/DailyWildfireCAN/DailyWildfireCAN
   Benchmark: https://huggingface.co/DailyWildfireCAN/DailyWildfireCAN-Benchmark
   Datasheet: ""

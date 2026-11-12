@@ -27,6 +27,10 @@ We present <b>DailyWildfireCAN</b>, a multi-modal, multi-temporal dataset and be
 
 The dataset is available for [download](https://huggingface.co/datasets/DailyWildfireCAN/DailyWildfireCAN), and we release the [code](https://github.com/hagerradi/DailyWildFireCAN) for building the dataset in other regions of the world and for the benchmark.
 
+- **Dataset:** raw per-fire data and prepared mono-temporal and multi-temporal ML datasets on [Hugging Face](https://huggingface.co/datasets/DailyWildfireCAN/DailyWildfireCAN).
+- **Benchmark:** benchmark models and trained checkpoints on [Hugging Face](https://huggingface.co/DailyWildfireCAN/DailyWildfireCAN-Benchmark).
+- **Code:** code for building the dataset, training the benchmark models, and evaluation on [GitHub](https://github.com/hagerradi/DailyWildFireCAN).
+
 ## Authors
 
 <div class="authors" id="authors">
@@ -72,6 +76,16 @@ For questions, please contact us at:
 
 ## Citation
 
+Please cite our preprint:
+
 <div class="citation-block">
-Coming soon
+@misc{ettahri2026dailywildfirecandatasetbenchmarknextday,
+      title={DailyWildfireCAN: A Dataset and Benchmark for Next-Day Wildfire Spread Prediction in Canada},
+      author={Mahacine Ettahri and Hager Radi Abdelwahed and Toluwaleke Olutayo and Daniel Aloise and Gaétan Marceau Caron},
+      year={2026},
+      eprint={2611.14207},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2611.14207},
+}
 </div>
