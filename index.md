@@ -71,7 +71,8 @@ The dataset is available for [download](https://huggingface.co/datasets/DailyWil
 
 <p>
 For questions, please contact us at:
-<a href="mailto:hager.radi@mila.quebec">hager.radi@mila.quebec</a>
+<a href="mailto:mahacine.ettahri@etud.polymtl.ca">mahacine.ettahri@etud.polymtl.ca</a> (Mahacine Ettahri) or
+<a href="mailto:hager.radi@mila.quebec">hager.radi@mila.quebec</a> (Hager Radi)
 </p>
 
 ## Citation
