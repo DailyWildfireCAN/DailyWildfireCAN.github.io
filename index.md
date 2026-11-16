@@ -20,8 +20,20 @@ layout: default
 ## Abstract
 
 <p class="abstract">
-We present <b>DailyWildfireCAN</b>, a multi-modal, multi-temporal dataset and benchmark for predicting next-day wildfire spread across Canada. The dataset tracks continuous fire progression over multi-day events at a high spatial and temporal resolution of 90 m and 24 h, respectively. This resolution preserves fine-scale information relevant to fire-edge geometry, local fuel variations, and terrain effects, supporting research toward improved daily wildfire spread forecasting. DailyWildfireCAN covers 2,440 wildfire events across eight fire seasons (2017–2024) and integrates 33 features across diverse modalities, including topography, meteorology, vegetation and forest structure, human influence indices, and satellite imagery. We establish a comprehensive benchmark comparing mono-temporal and multi-temporal prediction models, accompanied by a multi-dimensional evaluation framework assessing robustness across wildfire characteristics, geographic regions, and temporal conditions, spatial prediction quality, and sensitivity to reference label variations. Together, the dataset and evaluation framework provide a standardized foundation for identifying model limitations and advancing wildfire spread prediction in Canadian landscapes. We publicly release the dataset including raw data, mono-temporal and multi-temporal formats, along with benchmark models, trained checkpoints, and comprehensive evaluation code.
+<b>DailyWildfireCAN</b> is a comprehensive dataset and benchmark for next-day wildfire spread prediction across Canada. It combines high-resolution fire progression data with environmental and satellite observations to support the development and evaluation of AI models for wildfire forecasting.
 </p>
+
+<p><b>Key Highlights:</b></p>
+
+<ul>
+<li><b>Nationwide coverage:</b> 2,440 wildfire events across eight fire seasons (2017–2024).</li>
+<li><b>High resolution:</b> Daily fire progression at 90 m spatial and 24-hour temporal resolution.</li>
+<li><b>Multi-modal data:</b> 33 features covering weather, terrain, vegetation, forest structure, human influence, and satellite imagery.</li>
+<li><b>Two dataset formats:</b> Mono-temporal and multi-temporal inputs for predicting next-day wildfire spread as a pixel-wise segmentation task.</li>
+<li><b>Comprehensive benchmark:</b> Diverse AI models evaluated using standardized data splits, baselines, and protocols.</li>
+<li><b>Robustness analysis:</b> Evaluation across fire characteristics, geographic regions, temporal conditions, spatial tolerances, and label uncertainty.</li>
+<li><b>Open research resources:</b> Publicly available raw and processed datasets, benchmark implementations, trained checkpoints, and evaluation code.</li>
+</ul>
 
 ## Dataset and Benchmark
 
