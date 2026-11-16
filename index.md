@@ -97,3 +97,6 @@ Please cite our preprint:
   year={2026}
 }
 </div>
+
+
+<p style="text-align:center; margin-top:2rem;"><i>Developed at Mila: Quebec AI Institute, The Applied Research Team</i></p>
