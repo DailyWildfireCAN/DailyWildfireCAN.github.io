@@ -100,3 +100,7 @@ Please cite our preprint:
 
 
 <p style="text-align:center; margin-top:2rem;"><i>Developed at Mila: Quebec AI Institute, The Applied Research Team</i></p>
+
+<p style="text-align:center; margin-top:1rem;">
+  <a href="https://mila.quebec"><img src="{{ '/assets/mila_logo.svg' | relative_url }}" alt="Mila - Quebec AI Institute" style="height:50px;"></a>
+</p>
