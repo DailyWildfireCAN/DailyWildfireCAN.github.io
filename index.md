@@ -39,7 +39,7 @@ layout: default
 
 - **Dataset:** raw per-fire data and prepared mono-temporal and multi-temporal ML datasets on [Hugging Face](https://huggingface.co/datasets/DailyWildfireCAN/DailyWildfireCAN).
 - **Benchmark:** benchmark models and trained checkpoints on [Hugging Face](https://huggingface.co/DailyWildfireCAN/DailyWildfireCAN-Benchmark).
-- **Code:** code for building the dataset, training the benchmark models, and evaluation on [GitHub](https://github.com/hagerradi/DailyWildFireCAN).
+- **Code:** code for building the dataset, training the benchmark models, and evaluation on [GitHub](https://github.com/milatechtransfer/DailyWildfireCAN).
 
 ## Authors
 
