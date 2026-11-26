@@ -3,6 +3,13 @@ title: 'DailyWildfireCAN: A Dataset and Benchmark for Next-Day Wildfire Spread P
 layout: default
 ---
 
+<p class="teaser">
+<video width="85%" autoplay loop muted playsinline controls poster="assets/dailywildfirecan_explainer.gif">
+  <source src="assets/dailywildfirecan_explainer.mp4" type="video/mp4">
+  <img src="assets/dailywildfirecan_explainer.gif" width="100%" alt="DailyWildfireCAN explainer animation"/>
+</video>
+</p>
+
 <p class="teaser"> <img src="assets/CanadawildfireDaily_problem.png" width="85%" alt="The wildfire spread prediction problem addressed by CanadaWildFireDaily"/>
 </p>
 
