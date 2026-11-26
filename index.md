@@ -10,9 +10,6 @@ layout: default
 </video>
 </p>
 
-<p class="teaser"> <img src="assets/CanadawildfireDaily_problem.png" width="85%" alt="The wildfire spread prediction problem addressed by CanadaWildFireDaily"/>
-</p>
-
 <p class="caption" style="width:85%; margin:0 auto 10px; text-align:justify;">
 <b>DailyWildfireCAN Dataset and Benchmark.</b><br>
 <b>(a) Geographic coverage.</b> Locations of the 2,440 wildfires (2017–2024), with marker size indicating total burned area. Bars show the number of fires per year. The inset shows one data sample with its burned area within a 23.04 × 23.04 km tile at 90-m resolution.<br>
